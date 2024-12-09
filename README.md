@@ -195,8 +195,8 @@ Ensure you have `Node.js` and `Yarn` installed by running `node -v` and `yarn -v
 1. **Clone the repository and navigate to the directory:**
 
     ```bash
-    git clone https://github.com/montasim/library-management-system-server.git
-    cd library-management-system-server
+    git clone https://github.com/Ololawrence/library-management-system.git
+    cd library-management-system
     ```
 
 2. **Install the dependencies:**
